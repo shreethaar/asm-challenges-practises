@@ -1,0 +1,16 @@
+Simple Encryption Algorithm using x86 assembly language
+
+Specifications:
+1. The algorithm should take an input string and a key
+2. It should encrypt the input string using the key
+3. You can choose any simple encryption technique such as Caesar cipher, XOR cipher or a custom algorithm
+4. The encrypted string should be printed out as the output
+
+You can break down into smaller steps:
+1. Input handling:
+Prompt the user to enter a string and a key
+2. Encryption algorithm:
+Implement the chosen encryption technique to encrypt the input string using the given key
+3. Output:
+Print the encrypted string
+
